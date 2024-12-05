@@ -1,6 +1,6 @@
 
 
-FILEPATH = "todos.txt"
+FILEPATH = "venv/todos.txt"
 
 def get_todos(filepath=FILEPATH):
     """Read a text file an return the list of to-do item."""
